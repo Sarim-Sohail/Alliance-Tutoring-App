@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "618516023241",
+    "project_id": "tutorme-25663",
+    "storage_bucket": "tutorme-25663.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618516023241:android:20cbbfdc66fbc59f00ca18",
+        "android_client_info": {
+          "package_name": "com.example.tutor_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618516023241-glteh1akgs89ha1e01e1ie4c3u0rqm1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tutor_me",
+            "certificate_hash": "38849b8312dac0d35448dca9bfc0cb082924896d"
+          }
+        },
+        {
+          "client_id": "618516023241-ma5a1a4gcv3hjhqae1hggpjinnp6sc03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAPJ6pfVTFjAbT5_paG_ZBilDRJm2SVVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618516023241-ma5a1a4gcv3hjhqae1hggpjinnp6sc03.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "618516023241-runkgjcli06gtviulv3igjojdt7nbvu3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tutorMe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
