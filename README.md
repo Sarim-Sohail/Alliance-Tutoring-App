@@ -9,7 +9,7 @@ Alliance incorporates essential features such as in-app video calling, contracts
 
 | App Screen 1        | App Screen 2        |
 |---------------------|---------------------|
-| ![Screen 1](/pictures/Picture1.png) | ![Screen 2](/pictures/Picture2.png) |
+| ![Screen 1](/Pictures/Picture1.png) | ![Screen 2](/Pictures/Picture2.png) |
 
 
 
