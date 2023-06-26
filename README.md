@@ -9,9 +9,9 @@ Alliance incorporates essential features such as in-app video calling, contracts
 
 |      **Splash Screen**      |      **Login Screen**      |      **Registration Screen**      |      **Home Screen**      |      **Search Screen**      |
 |:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|
-| <img src="screenshots/Picture1.png" width="180" height="350" alt="Screen 1"> | <img src="screenshots/Picture2.png" width="180" height="350" alt="Screen 2"> | <img src="screenshots/Picture3.png" width="180" height="350" alt="Screen 3"> | <img src="screenshots/Picture5.png" width="180" height="350" alt="Screen 4"> | <img src="screenshots/Picture6.png" width="180" height="350" alt="Screen 5"> |
+| <img src="screenshots/Picture1.png" width="190" height="320" alt="Screen 1"> | <img src="screenshots/Picture2.png" width="190" height="320" alt="Screen 2"> | <img src="screenshots/Picture3.png" width="190" height="320" alt="Screen 3"> | <img src="screenshots/Picture5.png" width="190" height="320" alt="Screen 4"> | <img src="screenshots/Picture6.png" width="190" height="320" alt="Screen 5"> |
 |      **Tutor Profile Screen**      |      **Messaging Screen**      |      **Conversation Screen**      |      **Create Contract Screen**      |      **Video Conferencing Screen**     |
-| <img src="screenshots/Picture7.png" width="180" height="350" alt="Screen 6"> | <img src="screenshots/Picture11.png" width="180" height="350" alt="Screen 7"> | <img src="screenshots/Picture12.png" width="180" height="350" alt="Screen 8"> | <img src="screenshots/Picture13.png" width="180" height="350" alt="Screen 9"> | <img src="screenshots/Picture15.png" width="180" height="350" alt="Screen 10"> |
+| <img src="screenshots/Picture7.png" width="190" height="320" alt="Screen 6"> | <img src="screenshots/Picture11.png" width="190" height="320" alt="Screen 7"> | <img src="screenshots/Picture12.png" width="190" height="320" alt="Screen 8"> | <img src="screenshots/Picture13.png" width="190" height="320" alt="Screen 9"> | <img src="screenshots/Picture15.png" width="190" height="320" alt="Screen 10"> |
 
 
 
