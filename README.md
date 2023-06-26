@@ -7,9 +7,10 @@ Alliance is an Android application, designed to serve as a platform for the tuto
 Alliance incorporates essential features such as in-app video calling, contracts, real-time messaging, and opportunities for volunteering work. By seamlessly integrating these functionalities, it offers a convenient and secure space for tutoring interactions.
 
 
+| App Screen 1        | App Screen 2        |
 |---------------------|---------------------|
 | ![Screen 1](/pictures/Picture1.png) | ![Screen 2](/pictures/Picture2.png) |
-| Title 1             | Title 2             |
+
 
 
 
