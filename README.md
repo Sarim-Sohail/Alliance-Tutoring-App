@@ -9,9 +9,9 @@ Alliance incorporates essential features such as in-app video calling, contracts
 
 |      **Splash Screen**      |      **Login Screen**      |      **Registration Screen**      |      **Home Screen**      |      **Search Screen**      |
 |:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|
-| ![Screen 1](screenshots/Picture1.png) | ![Screen 2](screenshots/Picture2.png) | ![Screen 3](screenshots/Picture3.png) | ![Screen 4](screenshots/Picture5.png) | ![Screen 5](screenshots/Picture6.png) |
+| <img src="screenshots/Picture1.png" width="200" height="150" alt="Screen 1"> | <img src="screenshots/Picture2.png" width="200" height="150" alt="Screen 2"> | <img src="screenshots/Picture3.png" width="200" height="150" alt="Screen 3"> | <img src="screenshots/Picture5.png" width="200" height="150" alt="Screen 4"> | <img src="screenshots/Picture6.png" width="200" height="150" alt="Screen 5"> |
 |      **Tutor Profile Screen**      |      **Messaging Screen**      |      **Conversation Screen**      |      **Create Contract Screen**      |      **Video Conferencing Screen**     |
-| ![Screen 6](screenshots/Picture7.png) | ![Screen 7](screenshots/Picture11.png) | ![Screen 8](screenshots/Picture12.png) | ![Screen 9](screenshots/Picture13.png) | ![Screen 10](screenshots/Picture15.png) |
+| <img src="screenshots/Picture7.png" width="200" height="150" alt="Screen 6"> | <img src="screenshots/Picture11.png" width="200" height="150" alt="Screen 7"> | <img src="screenshots/Picture12.png" width="200" height="150" alt="Screen 8"> | <img src="screenshots/Picture13.png" width="200" height="150" alt="Screen 9"> | <img src="screenshots/Picture15.png" width="200" height="150" alt="Screen 10"> |
 
 
 
