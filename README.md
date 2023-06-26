@@ -6,7 +6,7 @@ Hey, welcome to my FYP!
 Alliance is an Android application, designed to serve as a platform for the tutors of Karachi to provide their services to students. It is developed using Flutter, Firebase, Stripe, HMS GetStream API, and 100ms API as its technological foundation. This application revolutionizes the tutoring landscape by providing a comprehensive platform for both tutors and students. One of its key achievements is addressing the challenges faced by private/home tutors, who heavily rely on word-of-mouth advertising for recognition. 
 Alliance incorporates essential features such as in-app video calling, contracts, real-time messaging, and opportunities for volunteering work. By seamlessly integrating these functionalities, it offers a convenient and secure space for tutoring interactions.
 
-| App Screen 1        | App Screen 2        |
+
 |---------------------|---------------------|
 | ![Screen 1](/pictures/Picture1.png) | ![Screen 2](/pictures/Picture2.png) |
 | Title 1             | Title 2             |
